@@ -4,5 +4,6 @@
   "app_name": "방효선님 콘텐츠 캘린더",
   "short_name": "방효선님 콘텐츠 캘린더",
   "icon_char": "효",
-  "year": 2026
+  "year": 2026,
+  "per_tab": true
 }
